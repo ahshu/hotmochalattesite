@@ -1,0 +1,56 @@
+body {
+	background-image: url("sky.png");
+	background-attachment: fixed;
+	background-size: 100%;
+}
+#ultimate {
+  margin-left: 2%;
+  margin-bottom: 1%;
+  font-size: 24pt;
+  background-color: rgba(64,64,64,0.5);
+  width: fit-content;
+}
+* {
+	font-family: "Balsamiq Sans";
+	color: #cccccc;
+}
+a {
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+@font-face {
+	font-family: Balsamiq;
+	src: url(BalsamiqSans-Bold.ttf);
+}
+div {
+	background-color: rgba(112,112,112,0.5);
+}
+.spotifylink {
+	color: #1DB954;
+}
+.sidebar {
+  margin-left: 2%;
+  vertical-align: top;
+  width: 15%;
+  display: inline-block;
+}
+.content {
+  margin-left: 1%;
+  vertical-align: top;
+  display: inline-block;
+  width: 80%;
+  margin-right: 1%;
+}
+p, h3 {
+  margin-left: 10px;
+}
+h1 {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+img {
+  width: 50%;
+  display: block;
+  margin: auto;
+}
